@@ -1,28 +1,23 @@
-# This is a large heading
+# The OG
 
-## This is a smaller heading
+### Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in IL, in  the city of TLC.
 
-- This is
-- an unordered
-- list
+### Hooping
 
-1. This is
-2. an ordered
-3. list
+My favourite game is:
 
-Here is `some code` in the middle of a sentence.
+- *Hoop* all day
+- Just playin' *ball*
+- All I do is *win*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Zozobra in TLV
+2. Claro in Sarona
+3. Uzeria in Levinski Market
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+**Don't**
